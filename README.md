@@ -23,19 +23,19 @@ and turning ideas into working projects.
 
 ## 🚀 Featured Projects
 
-- 🚛 **[MetiuMods](https://github.com/MehdiAnti/MetiuMods)**  
+- 🚛 **[Metiu Mods](https://github.com/MehdiAnti/MetiuMods)**  
   ETS2 & ATS mods and related projects
 
-- 🌐 **[scs-blog-worker](https://github.com/MehdiAnti/scs-blog-worker)**  
+- 🌐 **[SCS Blog Worker](https://github.com/MehdiAnti/scs-blog-worker)**  
   Cloud-based worker for SCS Software blog content
 
 - 🤖 **[TMPBot](https://github.com/MehdiAnti/TMPBot)**  
   Telegram bot built around the TruckersMP API
 
-- 🚚 **[SCS-Dealer-Finder](https://github.com/MehdiAnti/SCS-Dealer-Finder)**  
+- 🚚 **[SCS Dealer Finder](https://github.com/MehdiAnti/SCS-Dealer-Finder)**  
   Find and extract truck dealer information from SCS data
 
-- 🔧 **[SCS-Items-Extractor](https://github.com/MehdiAnti/SCS-Items-Extractor)**  
+- 🔧 **[SCS Items Extractor](https://github.com/MehdiAnti/SCS-Items-Extractor)**  
   Extract and process items from SCS game files
 
 ---
@@ -53,6 +53,18 @@ and turning ideas into working projects.
 
 ---
 
+## 🎨 Beyond Code
+
+> When I'm not writing code, I'm usually doing something like:
+
+- 🎨 Blender & 3D Modeling
+- 🚛 ETS2 / ATS Modding
+- 🎬 Movies & Series
+- 🎮 Gaming
+- 🧪 Random Experiments & Side Projects
+
+---
+
 ## 📚 Learning
 
 > Exploring new languages, technologies, and better ways to build things.
@@ -63,11 +75,17 @@ Currently interested in **Mame ¯\_(ツ)_/¯**
 
 ## 🔗 Find me
 
-- **GitHub:** [@MehdiAnti](https://github.com/MehdiAnti)
-- **Telegram:** [@MehdiAnti](https://t.me/MehdiAnti)
-- **Instagram:** [@MehdiAnti](https://instagram.com/MehdiAnti)
+<div align="center">
+  
+[![Github](https://img.shields.io/badge/MehdiAnti-grey?style=social&logo=github&logoColor=%23181717)](https://github.com/MehdiAnti)
+[![Telegram](https://img.shields.io/badge/MehdiAnti-grey?style=social&logo=telegram&logoColor=%2326A5E4)](https://t.me/MehdiAnti)
+[![Instagram](https://img.shields.io/badge/MehdiAnti-grey?style=social&logo=instagram&logoColor=%23FF0069)](https://instagram.com/MehdiAnti)
+[![X](https://img.shields.io/badge/MehtiAnti-grey?style=social&logo=X&logoColor=%23000000)](https://x.com/MehtiAnti)
+
+</div>
 
 ---
+
 <div align="center">
   
 <sub>Build → experiment → learn → improve.</sub>
