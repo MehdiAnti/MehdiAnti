@@ -45,6 +45,7 @@ and turning ideas into working projects.
 - 🚛 ETS2 / ATS & SCS Software
 - 🤖 Telegram Bots
 - 🌐 Web Development
+- 🧠 AI-Assisted Development
 - 🔌 APIs & Integrations
 - ⚙️ Automation & Tools
 - 🧩 File Formats & Reverse Engineering
